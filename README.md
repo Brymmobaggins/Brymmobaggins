@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Ibrahim Bakare!
 
 
-- 💡I am a Software Engineer and a Lifelong Learner.
+- 💡 I am a Software Engineer and a Lifelong Learner.
  
 - 🌱 I’m currently learning JavaScript, React and Typescript.
  
@@ -13,7 +13,7 @@
  
 - 📫 feel free to contact me [My Twitter](https://twitter.com/BrymmoBaggins) [My Email](bakareibrahim98@gmail.com)
 
--📚 I spend my time on Studying and Learning, using my Blog as a Space where I share what I learn and explore. I am always Looking forward to reaching and helping    more people by sharing my knowledge.
+- 📚 I spend my time on Studying and Learning, using my Blog as a Space where I share what I learn and explore. I am always Looking forward to reaching and helping    more people by sharing my knowledge.
 
 - 😄 Pronouns: He/Him
  
