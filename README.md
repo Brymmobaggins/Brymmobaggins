@@ -9,7 +9,7 @@
  
 - 🤔 2021 Goals: Network and contribute more to open source projects.
 
-- 💬 Ask me about ...Anything
+- 💬 Ask me about Frontend issues.
  
 - 📫 I'm a people person who love connect. Please shoot me shot if you'd would like to network [My Twitter](https://twitter.com/BrymmoBaggins) [My Email]  (bakareibrahim98@gmail.com)
 
