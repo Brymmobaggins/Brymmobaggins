@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Ibrahim Bakare!
 
 
-- 💡I am a Software Engineer passionate about technology and a Lifelong Learner.
+- 💡I am a Software Engineer passionate about technology.
  
 - 🌱 I’m currently learning JavaScript, React and Typescript.
  
