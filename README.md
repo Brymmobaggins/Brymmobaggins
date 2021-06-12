@@ -13,7 +13,7 @@
  
 - 📫 I'm a people person who love connect. Please shoot me shot if you'd would like to network [My Twitter](https://twitter.com/BrymmoBaggins) [My Email](Bakareibrahim98@gmail.com)
 
--📚 I spend my time on Studying and Learning, using my Blog as a Space where I share what I learn and explore. I am always Looking forward to reaching and helping    more people by sharing my knowledge.
+- 📚 I spend my time on Studying and Learning, using my Blog as a Space where I share what I learn and explore. I am always Looking forward to reaching and helping    more people by sharing my knowledge.
 
 - 😄 Pronouns: He/Him
  
