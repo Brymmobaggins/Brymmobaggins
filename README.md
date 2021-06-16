@@ -1,9 +1,9 @@
 ### Hi there 👋, I am Ibrahim Bakare!
 
 
-- 💡I am a Software Engineer passionate about technology.
+- 💡I am a **Software Engineer** passionate about technology.
  
-- 🌱 I’m currently learning JavaScript, React and Typescript.
+- 🌱 I’m currently learning **JavaScript **& React.
  
 - 👯 I’m looking to collaborate with other frontend and Web developers.
  
