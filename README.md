@@ -1,4 +1,4 @@
-### Hello World, my name Ibrahim Bakare| Passionate about Techonology
+### Hello World, my name Ibrahim Bakare| Passionate about Technology
 
 
 - 💡I am a **Software Engineer** passionate about technology.
