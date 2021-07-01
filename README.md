@@ -1,4 +1,4 @@
-### Hello World, my name Ibrahim Bakare| Passionate about Technology
+### Hello World! i'm Ibrahim Bakare, frontend Engineer specialised in web.
 
 
 - 💡I am a **Software Engineer** passionate about technology.
