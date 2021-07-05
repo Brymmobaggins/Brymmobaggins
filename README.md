@@ -1,4 +1,4 @@
-### Hello World! i'm Ibrahim Bakare, frontend Engineer specialise in web.
+## Hello World! am Ibrahim Bakare, frontend Engineer specialise in web.
 
 
 - 💡I am a **Software Engineer** passionate about technology.
