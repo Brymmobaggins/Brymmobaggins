@@ -9,7 +9,7 @@
  
 - 🤔 2021 Goals: Network and contribute more to open source projects.
 
-- 💬 Ask me about JavaScript & tech related topics.I am also interesting Product designing, cloud computing and Design Architecture
+- 💬 Ask me about JavaScript & tech related topics. I am also interested in Product designing, cloud computing and Design Architecture
  
 - 📫 I'm a people person who love connect. Please shoot me shot if you'd would like to network or reach me [Bakareibrahim98@gmail.com](Bakareibrahim98@gmail.com).
 
