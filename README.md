@@ -3,7 +3,7 @@
 
 - 💡I am a **Software Engineer** passionate about technology and always learning with (Books && internet).
  
-- 🌱 I’m currently learning **JavaScript**, **TypeScript** **React** & **Web3**
+- 🌱 I’m currently learning **JavaScript**, **TypeScript**, **React** && **Web3**
  
 - 👯 I’m looking to collaborate and build real-life projects.
  
