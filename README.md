@@ -1,11 +1,11 @@
-## Hello World! am Ibrahim Bakare, Software Engineer living in JavaScript Ecosystem.
+## Hello World! am Ibrahim Bakare, a Software Engineer living in the JavaScript Ecosystem.
 
 
 - 💡I am a **Software Engineer** passionate about technology and always learning with (Books && internet).
  
 - 👯 I’m looking to collaborate and build real-life projects.
  
-- 🤔 2021 Goals: Network and contribute more to open source projects.
+- 🤔 Goals: Network and contribute more to open-source projects.
 
 - 💬 Ask me about JavaScript & tech related topics. I am also interested in Product designing, cloud computing and Design Architecture
  
