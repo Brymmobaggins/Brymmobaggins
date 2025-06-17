@@ -1,4 +1,4 @@
-## Hello World! I am Ibrahim Bakare, a software engineer living in the JavaScript ecosystem.
+## Hello World! I am Ibrahim Bakare, a Software Engineer living in the JavaScript ecosystem.
 
 
 - 💡I am a **Software Engineer** passionate about technology and always learning with (Books && internet).
